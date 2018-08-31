@@ -1,1 +1,17 @@
-
+[{
+  "modid": "touchbar",
+  "name": "Touch Bar Compatibility",
+  "description": "Lets Mac users add Touch Bar controls to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/touchbar/textures/logo.png",
+  "url": "https://minecraft.curseforge.com/projects/touch-bar-for-minecraft/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Pirateboy04"],
+  "credits": "Uses JTouchBar"
+  "clientSideOnly": true
+  "updateJSON": "https://github.com/Pirateboy04/Touch-Bar-for-Minecraft/blob/master/update.json"
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}]
